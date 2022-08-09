@@ -12,7 +12,7 @@
     "clientThemeVariant": "",
     "creationTimestamp": 1659029552812,
     "databaseType": "sql",
-    "devDatabaseType": "h2Memory",
+    "devDatabaseType": "postgresql",
     "devServerPort": 4200,
     "dtoSuffix": "DTO",
     "enableGradleEnterprise": false,
